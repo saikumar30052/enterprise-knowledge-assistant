@@ -201,7 +201,7 @@ Response
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/abrahamsamuelsmithpaul/enterprise-knowledge-assistant-ai.git
+git clone https://github.com/saikumar30052/enterprise-knowledge-assistant.git
 
 cd enterprise-knowledge-assistant-ai
 ```
@@ -333,11 +333,11 @@ Citation Display
 
 # Author
 
-**Abraham Samuel**
+**Sai Kumar**
 
 GitHub:
 
-https://github.com/abrahamsamuelsmithpaul
+https://github.com/saikumar30052
 
 ---
 
